@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @JuanBenaAnalyst
-- Business administrator with a focus on finance and business intelligence,
-- with coursework emphasizing:
+- 👋 Hi, I’m @JuanBenaAnalyst, a Business administrator with a focus on finance and business intelligence, with coursework emphasizing:
 - data analysis for decision-making
 - capital markets (Bloomberg)
 - financial modeling in Excel (VBA) and business/data analytics. 📊💼📈
