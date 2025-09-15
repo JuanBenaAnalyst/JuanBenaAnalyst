@@ -28,8 +28,7 @@ Welcome to my GitHub! This is where I share projects, learning progress, and exp
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/juanbenavidesg)  
-- [Portfolio](https://juanbenaanalyst.github.io/)  
+- [LinkedIn](https://www.linkedin.com/in/juanbenavidesg)    
 
 ---
 
