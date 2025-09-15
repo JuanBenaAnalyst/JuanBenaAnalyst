@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Juan Diego Benavides Garzón
 
-🎯 **Aspiring Data Analyst | Finance Background | Generative AI Enthusiast**
+🎯 **Aspiring Data Analyst | Finance and Retail Background | Generative AI Enthusiast**
 
 Welcome to my GitHub! This is where I share projects, learning progress, and experiments in **Data Analytics, Machine Learning, and Generative AI**.
 
