@@ -8,7 +8,7 @@ Welcome to my GitHub! This is where I share projects, learning progress, and exp
 
 ## 🔎 About Me
 - 🎓 BBA from Pontificia Universidad Javeriana (GPA 4.2/5)  
-- 📊 Currently completing the **Professional Certificate in Data Analytics** at Imperial College Business School  
+- 📊 **Professional Certificate in Data Analytics (Imperial College Business School)** — completed  
 - 🤖 Certified in **Prompt Engineering (Vanderbilt University)** — exploring how to integrate Generative AI into analytics workflows  
 
 ---
